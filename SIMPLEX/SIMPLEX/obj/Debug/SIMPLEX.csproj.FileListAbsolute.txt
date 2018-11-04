@@ -1,0 +1,10 @@
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\bin\Debug\SIMPLEX.exe.config
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\bin\Debug\SIMPLEX.exe
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\bin\Debug\SIMPLEX.pdb
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.csprojAssemblyReference.cache
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.Form1.resources
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.Properties.Resources.resources
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.csproj.GenerateResource.cache
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.csproj.CoreCompileInputs.cache
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.exe
+C:\Users\konow\source\repos\SIMPLEX\SIMPLEX\obj\Debug\SIMPLEX.pdb
